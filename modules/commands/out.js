@@ -2,7 +2,7 @@ module.exports.config = {
   name: "out",
   version: "1.0.0",
   hasPermssion: 2,
-  credits: "DũngUwU",
+  credits: "Tác giả :Trần bình07",
   description: "out box",
   commandCategory: "Hệ Thống",
   usages: "[tid]",

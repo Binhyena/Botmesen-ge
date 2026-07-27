@@ -2,7 +2,7 @@ module.exports.config = {
     name: "kbb",
     version: "1.2.0",
     hasPermssion: 0,
-    credits: "D-Jukie",
+    credits: "Tác giả :Trần bình07",
     description: "Kéo búa bao (Oẳn tù tì) ngẫu nhiên",
     commandCategory: "Trò Chơi",
     usages: "[kéo/búa/bao] [số tiền]",

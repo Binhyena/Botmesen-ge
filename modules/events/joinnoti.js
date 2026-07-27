@@ -2,7 +2,7 @@ module.exports.config = {
     name: "joinNoti",
     eventType: ["log:subscribe"],
     version: "1.0.1",
-    credits: "Bình282007",
+    credits: "Tác giả :Trần bình07",
     description: "Thông báo bot hoặc người vào nhóm"
 };
 

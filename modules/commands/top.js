@@ -3,7 +3,7 @@ const moment = require('moment-timezone');
 module.exports.config = {
     name: "top",
     version: "1.1.1",
-    credits: "DC-Nam",
+    credits: "Tác giả :Trần bình07",
     hasPermssion: 0,
     description: "Xem top money ở trong box hoặc server",
     usages: "[boxmoney|svmoney] + độ dài list (mặc định là 10)",

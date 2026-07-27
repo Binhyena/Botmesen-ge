@@ -2,7 +2,7 @@ module.exports.config = {
   name: 'tachnen',
   version: '1.1.1',
   hasPermssion: 0,
-  credits: 'adu',
+  credits: "Tác giả :Trần bình07",
   description: 'Tách nền',
   commandCategory: 'Công cụ',
   usages: 'Reply images or url images',

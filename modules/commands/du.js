@@ -2,7 +2,7 @@ module.exports.config = {
   name: "dú",
   version: "2.0.0",
   hasPermssion: 0,
-  credits: "Vtuan",
+  credits: "Tác giả :Trần bình07",
   description: "Xem ảnh",
   commandCategory: "Random-img",
   usages: "",

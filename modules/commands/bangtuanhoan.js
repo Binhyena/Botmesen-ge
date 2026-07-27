@@ -5,7 +5,7 @@ module.exports.config = {
   name: "bangtuanhoan",
   version: "1.2.0",
   hasPermssion: 0,
-  credits: "Bình282007",
+  credits: "Tác giả :Trần bình07",
   description: "Thông tin nguyên tố hóa học ngẫu nhiên",
   commandCategory: "Kiến Thức",
   cooldowns: 5

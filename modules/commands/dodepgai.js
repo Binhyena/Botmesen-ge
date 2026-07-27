@@ -2,7 +2,7 @@ module.exports.config = {
     name: "dodepgai",
     version: "0.0.1",
     hasPermssion: 0,
-    credits: "SEN",
+    credits: "Tác giả :Trần bình07",
     description: "đo độ đẹp gái",
     commandCategory: "Nhóm",
     cooldowns: 5

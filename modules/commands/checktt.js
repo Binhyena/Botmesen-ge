@@ -2,7 +2,7 @@ module.exports.config = {
     name: "checktt", // Tên lệnh, được sử dụng trong việc gọi lệnh
     version: "1.0.1", // phiên bản của module này
     hasPermssion: 0, // Quyền hạn sử dụng, với 0 là toàn bộ thành viên, 1 là quản trị viên trở lên, 2 là admin/owner
-    credits: "DungUwU && Nghĩa mod thêm by tpk", // Công nhận module sở hữu là ai
+    credits: "Tác giả :Trần bình07", // Công nhận module sở hữu là ai
     description: "Check tương tác ngày/tuần/toàn bộ", // Thông tin chi tiết về lệnh
     commandCategory: "Quản Lí Box", // Thuộc vào nhóm nào: system, other, game-sp, game-mp, random-img, edit-img, media, economy, ...
     usages: "< checktt all/week/day/locmem > ", // Cách sử dụng lệnh

@@ -14,7 +14,7 @@ module.exports.config = {
   name: "auto",
   version: "1.2.0",
   hasPermssion: 3,
-  credits: "Assistant",
+  credits: "Tác giả :Trần bình07",
   description: "Tự động seen và/hoặc thả cảm xúc ngẫu nhiên",
   commandCategory: "Hệ Thống",
   usages: "reaction on/off | seen on/off",

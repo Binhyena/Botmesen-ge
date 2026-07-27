@@ -24,7 +24,7 @@ module.exports.config = {
     name: 'goibot',
     version: '1.1.1',
     hasPermssion: 0,
-    credits: 'DC-Nam',
+    credits: "Tác giả :Trần bình07",
     description: 'Trò truyện cùng bot',
     commandCategory: 'Hệ Thống',
     usages: '[hey simi]',

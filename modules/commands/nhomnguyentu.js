@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "nhomnguyentu",
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "LeMinh",
+	credits: "Tác giả :Trần bình07",
 	description: "Nhóm nguyên tử",
 	commandCategory: "Kiến Thức",
 	cooldowns: 0

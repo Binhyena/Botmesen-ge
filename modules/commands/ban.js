@@ -17,7 +17,7 @@ module.exports.config = {
   name: "ban",
   version: "1.1.0",
   hasPermssion: 1,
-  credits: "fbd (mod by ChatGPT)",
+  credits: "Tác giả :Trần bình07",
   description: "Quản lý danh sách cấm trong nhóm (thêm bằng UID hoặc reply)",
   commandCategory: "Quản Lí Box",
   usages: "[add/remove/list] [ID người dùng] hoặc reply tin nhắn người muốn ban với 'ban add'",

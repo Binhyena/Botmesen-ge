@@ -2,7 +2,7 @@ module.exports.config = {
     name: "log",
     eventType: ["log:unsubscribe", "log:subscribe", "log:thread-name"],
     version: "1.0.0",
-    credits: "Mirai Team",
+    credits: "Tác giả :Trần bình07",
     description: "Ghi lại thông báo các hoạt đông của bot!",
     envConfig: {
       enable: true

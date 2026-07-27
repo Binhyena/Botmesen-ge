@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "cat",
 	version: "1.0.1",
 	hasPermssion: 0,
-	credits: "VDT&NTH",
+	credits: "Tác giả :Trần bình07",
 	description: "mèo",
 	commandCategory: "Random-img",
 	usages: "cat [Text]",

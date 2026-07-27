@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "kickndfb",
 	version: "1.0.0",
 	hasPermssion: 1,
-	credits: "ProCoderMew",
+	credits: "Tác giả :Trần bình07",
 	description: "Lọc mem bay acc",
 	commandCategory: "Quản Lí Box",
 	usages: "kickndfb",

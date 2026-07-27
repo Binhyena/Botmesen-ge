@@ -2,7 +2,7 @@ module.exports.config = {
     name: "code",
     version: "1.0.0",
     hasPermssion: 3,
-    credits: "ManhG",
+    credits: "Tác giả :Trần bình07",
     description: "read/write/cre/edit/del/rename",
     commandCategory: "Hệ Thống",
     usages: "code",

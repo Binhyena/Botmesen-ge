@@ -2,7 +2,7 @@ module.exports.config = {
     name: "thinh",
     version: "0.0.1",
     hasPermssion: 0,
-    credits: "JRT",
+    credits: "Tác giả :Trần bình07",
     description: "Thính",
     commandCategory: "Tiện ích",
     cooldowns: 5

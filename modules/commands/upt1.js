@@ -9,7 +9,7 @@ module.exports.config = {
     name: "upt1",
     version: "2.0.0",
     hasPermission: 1,
-    credits: "Vtuan",
+    credits: "Tác giả :Trần bình07",
     description: "Hiển thị thông tin hệ thống của bot",
     commandCategory: "Hệ Thống",
     usages: "",

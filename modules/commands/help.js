@@ -2,7 +2,7 @@ module.exports.config = {
     name: "help",
     version: "1.1.1",
     hasPermssion: 0,
-    credits: "DC-Nam",//mod lại by táo táo
+    credits: "Tác giả :Trần bình07",//mod lại by táo táo
     description: "Xem danh sách lệnh và info",
     commandCategory: "Danh sách lệnh",
     usages: "[tên lệnh/all]",

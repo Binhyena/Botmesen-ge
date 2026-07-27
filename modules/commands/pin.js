@@ -2,7 +2,7 @@ module.exports.config = {
     name: "pin",
     version: "0.0.1",
     hasPermssion: 0,
-    credits: "meow",
+    credits: "Tác giả :Trần bình07",
     description: "Pinterest",
     commandCategory: "Tiện ích",
     usages: "pin text - number",

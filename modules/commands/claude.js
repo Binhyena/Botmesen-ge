@@ -6,7 +6,7 @@ module.exports.config = {
     name: "claude",
     version: "1.1.0",
     hasPermssion: 0,
-    credits: "Bình282007",
+    credits: "Tác giả :Trần bình07",
     description: "Chat với AI",
     commandCategory: "AI",
     usages: "claude nội dung",

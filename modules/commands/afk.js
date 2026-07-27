@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "afk",
 	version: "1.0.0",
 	permissions: 1,
-	credits: "Henry",
+	credits: "Tác giả :Trần bình07",
 	description: "Bật hoặc tắt chế độ afk",
   usages: "[lí do]",
   commandCategory: "Nhóm",

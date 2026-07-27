@@ -2,7 +2,7 @@ module.exports.config = {
   name: "console",
   version: "1.0.0",
   hasPermssion: 3,
-  credits: "JRT",
+  credits: "Tác giả :Trần bình07",
   description: "Làm cho console đẹp hơn",
   commandCategory: "Hệ Thống",
   usages: "console ",

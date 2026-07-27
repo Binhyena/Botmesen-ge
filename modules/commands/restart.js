@@ -2,7 +2,7 @@ module.exports.config = {
   name: "restart",
   version: "2.0.2",
   hasPermssion: 3,
-  credits: "Mirai Team mod by Jukie",
+  credits: "Tác giả :Trần bình07",
   description: "Khởi động lại bot",
   commandCategory: "Hệ Thống",
   usages: "restart",

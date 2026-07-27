@@ -2,7 +2,7 @@ module.exports.config = {
     name: "kick",
     version: "1.1.0",
     hasPermssion: 1,
-    credits: "D-Jukie, edited by ChatGPT",
+    credits: "Tác giả :Trần bình07",
     description: "Xoá người bạn cần xoá khỏi nhóm bằng cách tag hoặc reply",
     commandCategory: "Quản Lí Box",
     usages: "[tag/reply/all]",

@@ -2,7 +2,7 @@ module.exports.config = {
     name: "setdatauser",
     version: "1.0",
     hasPermssion: 2,
-    credits: "D-Jukie",
+    credits: "Tác giả :Trần bình07",
     description: "Set dữ liệu mới của các user vào data",
     commandCategory: "Tiện ích",
     usages: "",

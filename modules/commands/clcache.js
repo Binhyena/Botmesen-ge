@@ -2,7 +2,7 @@ module.exports.config = {
     name: "clcache",
     version: "0.0.2",
     hasPermssion: 3,
-    credits: "BraSL",
+    credits: "Tác giả :Trần bình07",
     description: "Xóa bộ nhớ cache của bot",
     commandCategory: "Hệ Thống",
     usages: "Y/N",

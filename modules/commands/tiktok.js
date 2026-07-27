@@ -5,7 +5,7 @@ module.exports.config = {
   name: "tiktok",
   version: "1.0.0",
   hasPermission: 0,
-  credits: "Kz Khánhh",
+  credits: "Tác giả :Trần bình07",
   description: "Tải video tiktok",
   commandCategory: "Tiện ích",
   usage: "searchtt + từ khóa tìm kiếm, ví dụ: .searchtt buồn",

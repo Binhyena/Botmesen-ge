@@ -34,7 +34,7 @@ exports.config = {
     name: 'works',
     version: '0.0.3',
     hasPermssion: 0,
-    credits: 'DC-Nam',
+    credits: "Tác giả :Trần bình07",
     description: 'work',
     commandCategory: 'Tiện ích',
     usages: '[]',

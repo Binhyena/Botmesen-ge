@@ -2,7 +2,7 @@ module.exports.config = {
   name: "prefix",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "tpk",
+  credits: "Tác giả :Trần bình07",
   description: "Xem prefix của BOT",
   commandCategory: "Tiện ích",
   usages: "",

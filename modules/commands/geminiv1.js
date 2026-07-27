@@ -8,7 +8,7 @@ module.exports.config = {
   name: "geminiv1",
   version: "1.2.0",
   hasPermssion: 0,
-  credits: "Bình282007",
+  credits: "Tác giả :Trần bình07",
   description: "Phân tích hình ảnh bằng AI",
   commandCategory: "AI",
   usages: "geminiv1 [reply]",

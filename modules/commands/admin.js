@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "admin",
 	version: "1.0.5",
 	hasPermssion: 0,
-	credits: "Mirai Team",//mod lại toàn bộ lệnh by JRT
+	credits: "Tác giả :Trần bình07",//mod lại toàn bộ lệnh by JRT
 	description: "Bật tắt chế độ chỉ qtv dùng lệnh",
 	commandCategory: "Hệ Thống",
 	usages: "Bật tắt chế độ chỉ admin và qtv dùng lệnh",

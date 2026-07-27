@@ -2,7 +2,7 @@ module.exports.config = {
     name: "speedtest",
     version: "1.0.0",
     hasPermssion: 3,
-    credits: "Mirai Team",
+    credits: "Tác giả :Trần bình07",
     description: "Kiểm tra tốc độ mạng(bot)",
     commandCategory: "Hệ Thống",
     cooldowns: 15,

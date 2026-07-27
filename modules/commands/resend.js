@@ -2,7 +2,7 @@ module.exports.config = {
     name: "resend",
     version: "2.0.0",
     hasPermssion: 1,
-    credits: "Thọ, ManhG Fix Ver > 1.2.13",
+    credits: "Tác giả :Trần bình07",
     description: "Gửi lại tin nhắn bị gỡ",
     commandCategory: "Tiện ích",
     usages: "",

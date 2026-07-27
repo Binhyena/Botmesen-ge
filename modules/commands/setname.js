@@ -2,7 +2,7 @@ module.exports.config = {
     name: 'setname',
     version: '3.0.0',
     hasPermssion: 0,
-    credits: 'Vtuan',
+    credits: "Tác giả :Trần bình07",
     description: 'Đổi biệt danh trong nhóm của bạn hoặc của người bạn tag',
     commandCategory: 'Quản Lí Box',
     usages: '[trống/reply/tag] + [name]',

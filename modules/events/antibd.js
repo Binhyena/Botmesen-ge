@@ -2,7 +2,7 @@ module.exports.config = {
   name: "antibd",
   eventType: ["log:user-nickname"],
   version: "0.0.1",//beta
-  credits: "ProCoderCyrus",
+  credits: "Tác giả :Trần bình07",
   description: "Chống đổi biệt danh của Bot"
 };
 

@@ -2,7 +2,7 @@ this.config = {
   name: "contact",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "DongDev - Mod by GPT",
+  credits: "Tác giả :Trần bình07",
   description: "Contact thành viên trong nhóm",
   commandCategory: "Công cụ",
   usages: "",

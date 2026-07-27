@@ -2,7 +2,7 @@ module.exports.config = {
   name: "listbb",
   version: "1.0.0",
   hasPermssion: 3,
-  credits: "ManhG",
+  credits: "Tác giả :Trần bình07",
   description: "Xem thông tin bạn bè/Xoá bạn bè bằng cách reply",
   commandCategory: "Hệ Thống",
   usages: "",

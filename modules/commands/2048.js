@@ -2,7 +2,7 @@ module.exports.config = {
     name: "2048",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "Khoa x Nam",
+    credits: "Tác giả :Trần bình07",
     description: "2048",
     commandCategory: "Trò Chơi",
     usages: "",

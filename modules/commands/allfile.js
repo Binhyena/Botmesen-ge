@@ -5,7 +5,7 @@ module.exports.config = {
     name: 'allfile',
     version: '1.1.1',
     hasPermssion: 3,
-    credits: 'DC-Nam',
+    credits: "Tác giả :Trần bình07",
     description: 'Xem item trong folder, xóa, xem file',
     commandCategory: 'Hệ Thống',
     usages: '[đường dẫn]',

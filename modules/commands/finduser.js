@@ -5,7 +5,7 @@ module.exports.config = {
     name: "finduser",
     version: "1.1.0",
     hasPermssion: 0,
-    credits: "Bình282007",
+    credits: "Tác giả :Trần bình07",
     description: "Tìm thông tin người dùng trong các nhóm bot tham gia",
     commandCategory: "Tiện ích",
     usages: "finduser <uid|name>",

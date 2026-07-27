@@ -2,7 +2,7 @@ module.exports.config = {
     name: "tile", //tỉ lệ hợp nhau
     version: "1.0.1",
     hasPermssion: 0,
-    credits: "Team Mirai",
+    credits: "Tác giả :Trần bình07",
     description: "Xem tỉ lệ hợp đôi giữa 2 người",
     commandCategory: "Tiện ích",
     usages: "[tag]",

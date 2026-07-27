@@ -2,7 +2,7 @@ module.exports.config = {
   name: "box",
   version: "1.1.0",
   hasPermssion: 0,
-  credits: "Modified by Assistant",
+  credits: "Tác giả :Trần bình07",
   description: "Cài đặt và thông tin nhóm",
   commandCategory: "Quản Lí Box",
   usages: "<id/name/setname/setnameall/me qtv/setqtv/emoji/image/info>",

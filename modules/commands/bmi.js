@@ -2,7 +2,7 @@ module.exports.config = {
     name: "bmi",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "tdong",
+    credits: "Tác giả :Trần bình07",
     description: "Tính toán chỉ số BMI của bạn",
     commandCategory: "Tiện ích",
     usages: "+ ›chiều cao‹ + ›cân nặng‹",

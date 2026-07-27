@@ -5,7 +5,7 @@ module.exports.config = {
     name: "avt",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "Jukie",
+    credits: "Tác giả :Trần bình07",
     description: "Lấy ảnh đại diện",
     commandCategory: "Công cụ",
     usages: "[user|box|tid]",

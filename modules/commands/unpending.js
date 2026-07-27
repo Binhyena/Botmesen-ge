@@ -4,7 +4,7 @@ const path = __dirname + '/disabledGroups.json';
 module.exports.config = {
   name: "unpending",
   version: "1.0.0",
-  credits: "Niiozic",
+  credits: "Tác giả :Trần bình07",
   hasPermssion: 2,
   description: "Hủy tạo database của box và ngừng bot nhận lệnh từ box đó",
   commandCategory: "Hệ Thống",

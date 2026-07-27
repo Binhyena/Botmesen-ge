@@ -13,7 +13,7 @@ module.exports.config = {
     name: "covay",
     version: "2.0.1",
     hasPermssion: 0,
-    credits: "lechii",
+    credits: "Tác giả :Trần bình07",
     description: "Game cờ vây",
     commandCategory: "Trò Chơi",
     usages: "[create|join|start|info|end|pass|resign]",

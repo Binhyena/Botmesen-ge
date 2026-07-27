@@ -5,7 +5,7 @@ module.exports.config = {
     name: "atstk",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "Bình282007",
+    credits: "Tác giả :Trần bình07",
     description: "auto sticker",
     commandCategory: "Hệ Thống",
     usages: "atstk on/off",

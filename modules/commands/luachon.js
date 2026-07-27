@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "luachon",
 	version: "1.0.1",
 	hasPermssion: 0,
-	credits: "Mirai Team",
+	credits: "Tác giả :Trần bình07",
 	description: "Nhờ bot chọn giúp một trong những thứ bạn cần làm",
 	commandCategory: "Công cụ",
 	usages: "luachon 123 | 456 | ...",

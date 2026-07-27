@@ -3,7 +3,7 @@ module.exports.config = {
     version: "1.0.0",
     hasPermssion: 0,
     Rent: 1,
-    credits: "Khoa x Nam",
+    credits: "Tác giả :Trần bình07",
     description: "chuyển văn bản sang mã nhị phân và ngược lại",
     commandCategory: "Công cụ",
     usages: "[encode/decode] [text/binary]",

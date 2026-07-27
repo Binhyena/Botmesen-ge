@@ -2,7 +2,7 @@ module.exports.config = {
   name: "ausand",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "Vtuan",
+  credits: "Tác giả :Trần bình07",
   description: "Xem ảnh",
   commandCategory: "Random-img",
   usages: "",

@@ -2,7 +2,7 @@ module.exports.config = {
   name: "timejoin",
   version: "1.0.2",
   hasPermssion: 0,
-  credits: "Judas - Fixed by ChatGPT",
+  credits: "Tác giả :Trần bình07",
   description: "Theo dõi thời gian join, gửi tin nhắn text",
   commandCategory: "Quản Lí Box",
   usages: "",

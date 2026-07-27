@@ -35,7 +35,7 @@ module.exports.config = {
     name: "sing",
     version: "1.1.0",
     hasPermssion: 0,
-    credits: "D-Jukie (mod tách tin nhắn: GPT-5)",
+    credits: "Tác giả :Trần bình07",
     description: "Phát nhạc thông qua link YouTube hoặc từ khoá tìm kiếm",
     commandCategory: "Tiện ích",
     usages: "[searchMusic]",

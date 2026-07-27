@@ -2,7 +2,7 @@ module.exports.config = {
   name: "randommem",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "D-Jukie",
+  credits: "Tác giả :Trần bình07",
   description: "Chọn ngẫu nhiên số thành viên trong box",
   commandCategory: "Nhóm",
   cooldowns: 0

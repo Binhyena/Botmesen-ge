@@ -6,7 +6,7 @@ module.exports.config = {
   name: "tx",
   version: "0.0.2",
   hasPermssion: 0,
-  credits: "hahh",
+  credits: "Tác giả :Trần bình07",
   description: "Chơi tài xỉu dùng ảnh local",
   commandCategory: "Trò Chơi",
   usages: "tx tài/xỉu số tiền",

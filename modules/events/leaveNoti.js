@@ -2,7 +2,7 @@ module.exports.config = {
   name: "leaveNoti",
   eventType: ["log:unsubscribe"],
   version: "1.0.2",
-  credits: "HĐGN",
+  credits: "Tác giả :Trần bình07",
   description: "Thông báo người rời khỏi nhóm (văn bản)"
 };
 

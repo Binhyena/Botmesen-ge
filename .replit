@@ -19,23 +19,12 @@ start = "bash-language-server start"
 deploymentTarget = "cloudrun"
 
 [[ports]]
-localPort = 80
-externalPort = 3000
-
-[[ports]]
 localPort = 2006
 externalPort = 80
 
 [[ports]]
-localPort = 2020
-
-[[ports]]
 localPort = 3004
-externalPort = 3001
-
-[[ports]]
-localPort = 8080
-externalPort = 8080
+externalPort = 3000
 
 [agent]
 expertMode = true

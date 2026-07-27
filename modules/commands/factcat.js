@@ -4,7 +4,7 @@ module.exports.config = {
     name: "factcat",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "Bình282007",
+    credits: "Tác giả :Trần bình07",
     description: "Gửi một fact ngẫu nhiên về mèo và dịch sang tiếng Việt",
     commandCategory: "Tiện ích",
     usages: "!catfact",

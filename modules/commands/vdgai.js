@@ -2,7 +2,7 @@ module.exports.config = {
   name: "vdgai",
   version: "2.0.0",
   hasPermssion: 0,
-  credits: "Vtuan",
+  credits: "Tác giả :Trần bình07",
   Rent: 2,
   description: "Xem video về anime chill",
   commandCategory: "Random-img",

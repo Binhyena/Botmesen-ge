@@ -2,7 +2,7 @@ module.exports.config = {
   name: "commands",
   version: "1.0.0",
   hasPermssion: 3,
-  credits: "NTKhang",
+  credits: "Tác giả :Trần bình07",
   description: "config bot!",
   commandCategory: "Hệ Thống",
   cooldowns: 5

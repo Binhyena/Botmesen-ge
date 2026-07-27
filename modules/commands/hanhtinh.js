@@ -4,7 +4,7 @@ module.exports.config = {
     name: "hanhtinh",
     version: "1.1.8",
     hasPermssion: 0,
-    credits: "JRT fix by Jukie~~",
+    credits: "Tác giả :Trần bình07",
     description: "Xem thông tin về hành tinh",
     commandCategory: "Kiến Thức",
     usages: "",

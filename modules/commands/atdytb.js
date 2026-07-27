@@ -38,7 +38,7 @@ exports.config = {
   name: 'atdytb',
   version: '1',
   hasPermssion: 0,
-  credits: 'Bình282007',
+  credits: "Tác giả :Trần bình07",
   description: '',
   commandCategory: 'Tiện ích',
   usages: [],

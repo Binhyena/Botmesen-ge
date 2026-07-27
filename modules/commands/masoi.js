@@ -4,7 +4,7 @@ module.exports.config = {
   name: "masoi",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "Horizon",
+  credits: "Tác giả :Trần bình07",
   description: "Ma Sói",
   commandCategory: "Trò Chơi",
   usages: "masoi",

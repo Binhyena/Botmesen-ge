@@ -2,7 +2,7 @@ module.exports.config = {
     name: "deptrai",
     version: "0.0.2",
     hasPermssion: 0,
-    credits: "SEN (modified by Assistant)",
+    credits: "Tác giả :Trần bình07",
     description: "đo độ đẹp trai",
     commandCategory: "Nhóm",
     cooldowns: 5,

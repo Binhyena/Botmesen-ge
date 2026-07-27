@@ -2,7 +2,7 @@ module.exports.config = {
   name: "echo",
   version: "1.0.0", 
   hasPermssion: 3,
-  credits: "DungUwU",
+  credits: "Tác giả :Trần bình07",
   description: "gửi tin nhắn", 
   commandCategory: "Hệ Thống", 
   usages: "", 

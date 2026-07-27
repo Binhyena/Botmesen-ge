@@ -68,7 +68,7 @@ exports.config = {
     name: 'atdtiktok',
     version: '1',
     hasPermssion: 0,
-    credits: 'Công Nam mod all Harin',
+    credits: "Tác giả :Trần bình07",
     description: '',
     commandCategory: 'Tiện ích',
     usages: [],

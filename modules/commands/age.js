@@ -3,7 +3,7 @@ module.exports.config = {
 	name: "age2",
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "Khoa",
+	credits: "Tác giả :Trần bình07",
 	description: "Tính tuổi",
 	commandCategory: "Tiện ích",
 	usages: "[ngày/tháng/năm sinh]",

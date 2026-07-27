@@ -4,7 +4,7 @@ module.exports.config = {
     name: "daybot",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "gojo",
+    credits: "Tác giả :Trần bình07",
     description: "Dạy bot",
     commandCategory: "Nhóm",
     usages: "",

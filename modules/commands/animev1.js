@@ -2,7 +2,7 @@ module.exports.config = {
     name: "animev1",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "tdunguwu",
+    credits: "Tác giả :Trần bình07",
     description: "",
     commandCategory: "Random-img",
     usages: "",

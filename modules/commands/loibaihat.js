@@ -7,7 +7,7 @@ module.exports.config = {
     name: "loibaihat",
     version: "1.1.0",
     hasPermssion: 0,
-    credits: "Bình282007",
+    credits: "Tác giả :Trần bình07",
     description: "Tìm lời bài hát kèm thông tin đầy đủ",
     commandCategory: "Tiện ích",
     usages: "[tên bài hát]",

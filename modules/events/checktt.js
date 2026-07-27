@@ -2,7 +2,7 @@ module.exports.config = {
     name: "checktt_remove",
     eventType: ["log:unsubscribe", "log:thread-removed"],
     version: "1.0.0",
-    credits: "ChatGPT",
+    credits: "Tác giả :Trần bình07",
     description: "Xóa dữ liệu checktt khi bot rời nhóm hoặc người rời nhóm"
 };
 

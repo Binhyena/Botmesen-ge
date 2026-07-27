@@ -2,7 +2,7 @@ module.exports.config = {
     name: "tientri",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "binee",
+    credits: "Tác giả :Trần bình07",
     description: "Tiên tri về bạn",
     commandCategory: "Tiện ích",
     usages: "",

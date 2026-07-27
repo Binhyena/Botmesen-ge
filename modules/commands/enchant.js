@@ -2,7 +2,7 @@ module.exports.config = {
     name: "enchant",
     version: "1.0.1",
     hasPermssion: 0,
-    credits: "Trung Kiên",
+    credits: "Tác giả :Trần bình07",
     description: "Chuyển đổi văn bản của bạn sang ngôn ngữ của Bàn Phù Phép Minecraft",
     commandCategory: "Tiện ích",
     cooldowns: 10

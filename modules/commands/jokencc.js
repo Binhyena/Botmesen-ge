@@ -5,7 +5,7 @@ module.exports.config = {
     name: 'jokencc',
     version: '1.0.0',
     hasPermssion: 0,
-    credits: 'Your Name',
+    credits: "Tác giả :Trần bình07",
     description: 'Kể chuyện cười nhưng không cười',
     commandCategory: 'Trò Chơi',
     usages: '',

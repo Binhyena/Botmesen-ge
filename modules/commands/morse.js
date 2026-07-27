@@ -4,7 +4,7 @@ module.exports.config = {
     name: "morse",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "Bình282007",
+    credits: "Tác giả :Trần bình07",
     description: "Chuyển đổi văn bản thành mã Morse và ngược lại",
     commandCategory: "Tiện ích",
     usages: "[encode|decode] [văn bản|mã Morse]",

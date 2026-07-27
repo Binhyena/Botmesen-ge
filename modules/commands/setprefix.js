@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "setprefix",
 	version: "2.0.0",
 	hasPermssion: 1,
-	credits: "Vtuan",
+	credits: "Tác giả :Trần bình07",
 	description: "Đặt lại prefix của nhóm",
 	commandCategory: "Quản Lí Box",
 	usages: "[prefix/reset]",

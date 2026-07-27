@@ -259,7 +259,7 @@ module.exports.config = {
     name: "cotuong",
     version: "1.0.0", 
     hasPermission: 0,
-    credits: "lechii",
+    credits: "Tác giả :Trần bình07",
     description: "Game Cờ Tướng - Chinese Chess",
     commandCategory: "Trò Chơi",
     usages: "[tạo/tham gia/bắt đầu/di chuyển]",

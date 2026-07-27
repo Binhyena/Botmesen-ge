@@ -5,7 +5,7 @@ module.exports.config = {
     name: "genshin",
     version: "1.1.0",
     hasPermssion: 3,
-    credits: "Bình282007",
+    credits: "Tác giả :Trần bình07",
     description: "Fetch information about a Genshin Impact character or weapon",
     commandCategory: "Hệ Thống",
     usages: "[character/weapon] [name]",

@@ -2,7 +2,7 @@ module.exports.config = {
     name: "setdatabox",
     version: "1.0",
     hasPermssion: 3,
-    credits: "D-Jukie",
+    credits: "Tác giả :Trần bình07",
     description: "Set dữ liệu mới của các box vào data",
     commandCategory: "Hệ Thống",
     usages: "",

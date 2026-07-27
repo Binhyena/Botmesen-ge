@@ -8,7 +8,7 @@ module.exports.config = {
     name: 'autosend',
     version: '1.1.0',
     hasPermssion: 3,
-    credits: 'Bình282007',
+    credits: "Tác giả :Trần bình07",
     description: 'Tự động gửi tin nhắn theo giờ, có thể bật/tắt theo nhóm',
     commandCategory: 'Hệ Thống',
     usages: '[on | off | test]',

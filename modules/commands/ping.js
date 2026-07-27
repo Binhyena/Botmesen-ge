@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "ping",
 	version: "1.0.4",
 	hasPermssion: 1,
-	credits: "Mirai Team",
+	credits: "Tác giả :Trần bình07",
 	description: "tag toàn bộ thành viên",
 	commandCategory: "Quản Lí Box",
 	usages: "[Text]",

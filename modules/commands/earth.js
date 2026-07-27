@@ -4,7 +4,7 @@ module.exports.config = {
   name: "earth",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "BerVer",
+  credits: "Tác giả :Trần bình07",
   description: "Xem hình ảnh trái đất gần đây nhất",
   commandCategory: "Tiện ích",
   usages: "earth",

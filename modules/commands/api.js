@@ -8,7 +8,7 @@ module.exports.config = {
 	name: "api",
 	version: "1.0.0",
 	hasPermssion: 2,
-	credits: "Vtuan",
+	credits: "Tác giả :Trần bình07",
 	description: "upload api",
 	commandCategory: "Hệ Thống",
   usePrefix: false,

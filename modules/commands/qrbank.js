@@ -6,7 +6,7 @@ module.exports.config = {
   name: "qrbank",
   version: "1.2.0",
   hasPermssion: 1,
-  credits: "N.Trung",
+  credits: "Tác giả :Trần bình07",
   description: "Tạo mã QR chuyển khoản VietQR",
   commandCategory: "Tiện ích",
   usages: "qr",

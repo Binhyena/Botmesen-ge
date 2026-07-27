@@ -5,7 +5,7 @@ module.exports.config = {
   name: "ban",
   eventType: ["log:subscribe"],
   version: "1.0.0",
-  credits: "Bình282007",
+  credits: "Tác giả :Trần bình07",
   description: "Tự động kick thành viên bị cấm khi tham gia nhóm"
 };
 

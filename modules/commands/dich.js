@@ -2,7 +2,7 @@ module.exports.config = {
 name: "dich",
 version: "1.0.1",
 hasPermssion: 0,
-credits: "Mirai Team",
+credits: "Tác giả :Trần bình07",
 escription: "dịch",
 commandCategory: "Công cụ",
 usages: "[Dịch tất cả ngôn ngữ] [Text]",
