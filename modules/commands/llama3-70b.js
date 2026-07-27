@@ -6,7 +6,7 @@ module.exports.config = {
     name: "llama3",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "TatsuYTB",
+    credits: "Bình282007",
     description: "Chat với AI(llama3-70b)",
     commandCategory: "AI",
     usages: "llama3 nội dung",

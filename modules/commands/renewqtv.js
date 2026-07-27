@@ -2,7 +2,7 @@ module.exports.config = {
   name: "renewqtv",
   version: "1.0",
   hasPermssion: 3,
-  credits: "TatsuYTB",
+  credits: "Bình282007",
   description: "Làm mới danh sách quản trị viên toàn bộ nhóm",
   commandCategory: "Hệ Thống",
   usages: "để trống",

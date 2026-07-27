@@ -5,7 +5,7 @@ module.exports.config = {
     name: "chuanip",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "TatsuYTB",
+    credits: "Bình282007",
     description: "Tra cứu chuẩn kháng nước và bụi IP",
     commandCategory: "Tiện ích",
     usages: "chuanip IPxx",

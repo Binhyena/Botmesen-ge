@@ -4,7 +4,7 @@ module.exports.config = {
     name: "doanso",
     version: "1.0.0",
     hasPermission: 0,
-    credits: "TatsuYTB",
+    credits: "Bình282007",
     description: "Trò chơi đoán số",
     commandCategory: "Trò Chơi",
     usages: "",

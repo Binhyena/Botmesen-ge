@@ -2,7 +2,7 @@ module.exports.config = {
  name: "thamgia",
  version: "1.0.0", 
  hasPermssion: 3,
- credits: "TatsuYTB",
+ credits: "Bình282007",
  description: "Thêm bạn vào nhóm mà bot đang ở",
  commandCategory: "Hệ Thống", 
  usages: "thamgia", 

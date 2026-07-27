@@ -8,7 +8,7 @@ module.exports.config = {
   name: "chatngaunhien",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "TatsuYTB",
+  credits: "Bình282007",
   description: "Chat ngẫu nhiên với người khác trong nhóm khác",
   commandCategory: "Nhóm",
   usages: "chatngaunhien",

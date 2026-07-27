@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "fact",
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "TatsuYTB",
+	credits: "Bình282007",
 	description: "random facts",
 	commandCategory: "Tiện ích",
 	cooldowns: 10

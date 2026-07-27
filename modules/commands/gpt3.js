@@ -6,7 +6,7 @@ module.exports.config = {
     name: "gpt3",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "TatsuYTB",
+    credits: "Bình282007",
     description: "Chat với AI",
     commandCategory: "AI",
     usages: "gpt3 nội dung",
