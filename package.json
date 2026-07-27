@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/tandung1/Bot12.git"
     },
-    "author": "D-Jukie",
+    "author": "trần thanh bình 07",
     "dependencies": {
         "@distube/ytdl-core": "^4.13.2",
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
