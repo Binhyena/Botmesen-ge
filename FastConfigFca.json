@@ -4,7 +4,7 @@
 	"AutoUpdate": true,
 	"MainColor": "#9900FF",
 	"MainName": "[ TatsuYTB ]",
-	"Uptime": false,
+	"Uptime": true,
 	"Config": "default",
 	"DevMode": false,
 	"Login2Fa": false,

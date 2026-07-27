@@ -1,7 +1,7 @@
 module.exports.config = {
   name: "cmd",
   version: "1.0.0",
-  hasPermssion: 2,
+  hasPermssion: 3,
   credits: "Mirai Team",
   description: "Quản lý/Kiểm soát toàn bộ module của bot",
   commandCategory: "Hệ Thống",
@@ -136,7 +136,9 @@ const unloadModule = function ({ moduleList, threadID, messageID }) {
 
 module.exports.run = function ({ event, args, api }) {
 
-  if (event.senderID != 100040472494187) return api.sendMessage(`» 𝐁𝐚̣𝐧 𝐤𝐡𝐨̂𝐧𝐠 𝐜𝐨́ 𝐪𝐮𝐲𝐞̂̀𝐧`, event.threadID, event.messageID)
+    if (!global.config.ADMINBOT.includes(event.senderID.toString())) {
+        return api.sendMessage(`» 𝐁𝐚̣𝐧 𝐤𝐡𝐨̂𝐧𝐠 𝐜𝐨́ 𝐪𝐮𝐲𝐞̂̀𝐧`, event.threadID, event.messageID);
+    }
 
   const { readdirSync } = global.nodemodule["fs-extra"];
   const { threadID, messageID } = event;

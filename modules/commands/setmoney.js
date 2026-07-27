@@ -1,7 +1,7 @@
 module.exports.config = {
     "name": "setmoney",
     "version": "1.0.0",
-    "hasPermssion": 2,
+    "hasPermssion": 3,
     "credits": "nnl",
     "description": "Điều chỉnh thông tin của người dùng",
     "commandCategory": "Hệ Thống",

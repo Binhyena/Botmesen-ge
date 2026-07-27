@@ -6,7 +6,7 @@ module.exports.config = {
   description: "Xem ảnh",
   commandCategory: "Random-img",
   usages: "",
-  cooldowns: 2
+  cooldowns: 30
 };
 
 module.exports.run = async ({ api, event ,Users}) => {
@@ -23,7 +23,7 @@ module.exports.run = async ({ api, event ,Users}) => {
   }
   let callback = function () {
     return api.sendMessage({
-      body: 'Bé loil: 300tr/1 đứa',
+      body: 'FBI Open Up!!!!!',
       attachment: [
        fs.createReadStream(__dirname + `/1.png`), 
        fs.createReadStream(__dirname + `/2.png`), 
