@@ -14,6 +14,7 @@
     },
     "author": "trần thanh bình 07",
     "dependencies": {
+        "crypto-js": "^4.2.0",
         "ansi-to-html": "^0.7.2",
         "ws": "^8.13.0",
         "aes-js": "^3.1.2",
