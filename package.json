@@ -14,6 +14,7 @@
     },
     "author": "trần thanh bình 07",
     "dependencies": {
+        "better-sqlite3": "^8.7.0",
         "speakeasy": "^2.0.0",
         "encode32": "^1.0.0",
         "bluebird": "^3.7.2",
