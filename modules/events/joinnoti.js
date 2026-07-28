@@ -30,14 +30,8 @@ module.exports.run = async function({ api, event, Users }) {
     const thisThread = dataJson.find(i => i.threadID == threadID) || { message: null, enable: true };
     if (!thisThread.enable) return; 
 
-    let msg = thisThread.message || `✿——————————————✿
-𝐗𝐢𝐧 𝐜𝐡𝐚̀𝐨: [ {name} ]
-𝐂𝐡𝐚̀𝐨 𝐦𝐮̛̀𝐧𝐠 𝐛𝐚̣𝐧 đ𝐞̂́n 𝐯𝐨̛́𝐢: [ {threadName} ]
-𝐁𝐚̣𝐧 𝐥𝐚̀ 𝐭𝐡𝐚̀𝐧𝐡 𝐯𝐢𝐞̂𝐧 𝐬𝐨̂́: [ {soThanhVien} ]
-𝐃̄𝐮̛𝐨̛̣𝐜 𝐭𝐡𝐞̂𝐦 𝐛𝐨̛̉𝐢: [ {author} ]
-𝐂𝐡𝐮́𝐜 𝐛𝐚̣𝐧 𝐜𝐨́ 𝐦𝐨̣̂𝐭 𝐧𝐠𝐚̀𝐲 𝐯𝐮𝐢 𝐯𝐞̉ 💝
-✿——————————————✿`;
-
+    let msg = thisThread.message || `Chào mừng {name} đã đến với box LxH siêu cute và hoà đồng nha🫶\n👉 Bạn là thành viên thứ {soThanhVien} của nhóm!`;
+;
     const nameArray = [];
     const mentions = [];
 

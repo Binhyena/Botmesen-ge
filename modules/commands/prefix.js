@@ -17,7 +17,7 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
   if (cpus == undefined);
   var { threadID, messageID, body, senderID } = event;
   //if (senderID == global.data.botID) return;
-  if ((this.config.credits) != "tpk") { return api.sendMessage(`Sai credits!`, threadID, messageID)}
+  //if ((this.config.credits) != "tpk") { return api.sendMessage(`Sai credits!`, threadID, messageID)}
   function out(data) {
     api.sendMessage(data, threadID, messageID)
   }
